@@ -1,4 +1,10 @@
 
+# Nightly Releases of the [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator)
+
+This repository is where nightly releases of the [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator) are published.
+
+**Note:** These releases aren't considered stable and contain the latest features in the Emulator.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
