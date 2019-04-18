@@ -5,6 +5,28 @@ This repository is where nightly releases of the [Bot Framework Emulator](https:
 
 **Note:** These releases aren't considered stable and contain the latest features in the Emulator.
 
+# Auto Update to Nightly Releases via Emulator
+
+If you want to use the latest nightly build without visiting this repository, you can do that directly through the Emulator!
+
+1. Start the Emulator and navigate to the Settings page.
+
+    ![Navigate to settings page](./media/settings-page.png)
+
+2. Check the checkbox labelled "Use pre-release versions."
+
+    ![Check use pre-release checkbox](./media/use-pre-release-checkbox.png)
+
+3. Check for updates
+
+    * If you want to **manually check** for a new nightly, navigate to the Help menu, and then click "Check for Update..."
+
+     ![Manually check for updates](./media/manual-check-update.png)
+
+    * If you want the Emulator to **automatically check** for and install updates on startup, check the checkbox labelled "Automatically download and install updates" on the Settings page.
+
+    ![Check auto update checkbox](./media/auto-update-checkbox.png)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
